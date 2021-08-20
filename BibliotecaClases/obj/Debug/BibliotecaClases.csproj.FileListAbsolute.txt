@@ -1,0 +1,12 @@
+C:\Users\Gisela\source\repos\BibliotecaClases\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Users\Gisela\source\repos\BibliotecaClases\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Users\Gisela\source\repos\BibliotecaClases\BibliotecaClases\obj\Debug\BibliotecaClases.csprojAssemblyReference.cache
+C:\Users\Gisela\source\repos\BibliotecaClases\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\Gisela\source\repos\BibliotecaClases\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+C:\Users\Gisela\source\repos\BibliotecaClases\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
+C:\Users\Gisela\source\repos\BibliotecaClasesGR\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Users\Gisela\source\repos\BibliotecaClasesGR\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Users\Gisela\source\repos\BibliotecaClasesGR\BibliotecaClases\obj\Debug\BibliotecaClases.csprojAssemblyReference.cache
+C:\Users\Gisela\source\repos\BibliotecaClasesGR\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\Gisela\source\repos\BibliotecaClasesGR\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+C:\Users\Gisela\source\repos\BibliotecaClasesGR\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
